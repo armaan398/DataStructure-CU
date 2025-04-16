@@ -1,4 +1,4 @@
-Chandigarh-Travel-Planner
+Travel-Planner-Using-Graph
 =======================
 Armaan
 Jatin Garg
